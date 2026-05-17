@@ -17,42 +17,6 @@
 <!-- 그라데이션 분리선 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👨‍👩‍👧‍👦 조원 명단
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN12-FINAL-3TEAM/blob/main/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/img/%EC%8A%AC%EA%B8%B0%EB%8B%98.png?raw=true" width="140" height="140" style="border-radius:50%;">
-      <h3>박슬기</h3>
-      <p><b>PM 겸 풀스택</b></p>
-    </td>
-    <td align="center" width="200">
-      <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN12-FINAL-3TEAM/blob/main/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/img/%EB%AA%85%EA%B5%AC%EB%8B%98.png?raw=true" width="140" height="140" style="border-radius:50%;">
-      <h3>노명구</h3>
-      <p><b>AI/ML 엔지니어</b></p>
-    </td>
-    <td align="center" width="200">
-      <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN12-FINAL-3TEAM/blob/main/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/img/%EC%A3%BC%EC%98%81%EB%8B%98.png?raw=true" width="140" height="140" style="border-radius:50%;">
-      <h3>이주영</h3>
-      <p><b>백엔드/프론트 개발자</b></p>
-    </td>
-    <td align="center" width="200">
-      <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN12-FINAL-3TEAM/blob/main/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/img/%EC%A4%80%EC%84%9D%EB%8B%98.png?raw=true" width="140" height="140" style="border-radius:50%;">
-      <h3>이준석</h3>
-      <p><b>데이터 엔지니어</b></p>
-    </td>
-    <td align="center" width="200">
-      <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN12-FINAL-3TEAM/blob/main/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/img/%EC%B0%A8%ED%95%B4%EB%8B%98.png?raw=true" width="140" height="140" style="border-radius:50%;">
-      <h3>황차해</h3>
-      <p><b>AI/ML 엔지니어</b></p>
-    </td>
-  </tr>
-</table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🔍 프로젝트 개요
 
 <div align="center">
@@ -447,41 +411,6 @@ Qwen3 생성 (문서화)
   <img src="https://img.shields.io/badge/▶️_시연_영상_자세히_보기-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 </div>
-
-## 💬 팀원 한 줄 회고
-
-<div align="center">
-<table>
-  <tr>
-    <th width="120">이름</th>
-    <th>한 줄 회고</th>
-  </tr>
-  <tr>
-    <td><b>박슬기</b></td>
-    <td align="left">큰 프로젝트를 처음부터 끝까지 기획하고 업무분배하고 다 같이 만들어나가는 작업이 즐거웠습니다.<br/> 아쉬운 부분도 많았지만 그것마저 경험삼겠습니다.<br/> 강사님 매니저님 우리 팀원들 모두 정말 고생많으셨습니다! 감사합니다!</td>
-  </tr>
-  <tr>
-    <td><b>노명구</b></td>
-    <td align="left">큰 프로젝트를 맡아서 다 같이 협업하는 과정을 경험하며, 많은 것을 배우고,좋은 경험이 된 것 같습니다. 저희 팀 최고입니다!</td>
-  </tr>
-  <tr>
-    <td><b>이주영</b></td>
-    <td align="left">프로젝트에서 주로 프론트엔드에 집중하다 보니 다른 역할을 깊게 경험하지 못한 점은 조금 아쉬웠습니다.<br/> 하지만 과정 자체는 즐겁고 의미 있었으며, 무엇보다 팀원들 덕분에 2달간의 여정을 성공적으로 마무리할 수 있었습니다.<br/> 긴 시간 동안 함께 달려온 우리 팀원들, 진심으로 고생 많으셨습니다!</td>
-  </tr>
-  <tr>
-    <td><b>이준석</b></td>
-    <td align="left">프로젝트에서 많은 어려움과 부침이 있었지만, 극복해나가면서 많은 걸 배웠습니다. 기간 동안 많은 가르침과 협업 방식, 소통 등 많은 부분에서 배웠던 것 같습니다. 팀원분들 모두 고생하셨습니다!</td>
-  </tr>
-  <tr>
-    <td><b>황차해</b></td>
-    <td align="left">아쉬운 부분이 있지만, 여러 버전의 모델을 적용하고 결과를 확인한 후 낮은 모델의 성능을 끌어올린 부분은 매우 흥미로웠습니다.<br/> 이번 프로젝트로 많은 경험을 얻을 수 있었습니다. 우리 팀원들 모두 너무 수고하셨습니다!</td>
-  </tr>
-</table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
   
 ### 🌟 **Thank You for Visiting!** 🌟
 
